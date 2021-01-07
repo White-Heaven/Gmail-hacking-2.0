@@ -6,7 +6,7 @@ from os import system
 
 def main():
    print '================================================='
-   print '             Coded By DARKHEAVEN [TEAM DARKHOLE] '
+   print '         Coded By DARKHEAVEN [TEAM DARKHOLE]     '
    print '================================================='
    print '               ++++++++++++++++++++              '
    print '\n                                               '
@@ -33,7 +33,7 @@ def main():
    print '   (  /   `-._//^`           '
    print '    `Y-.____(__}             '
    print '     |     {__)              ' 
-   print '           ()   V.1.0        '
+   print '           ()   V.2.0        '
 
 main()
 print '[1] start the attack'
