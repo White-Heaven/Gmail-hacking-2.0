@@ -5,7 +5,7 @@ import smtplib
 from os import system
 
 def main():
-   print '================================================='
+   print '=================================================' | locat
    print '         Coded By DARKHEAVEN [TEAM DARKHOLE]     '
    print '================================================='
    print '               ++++++++++++++++++++              '
